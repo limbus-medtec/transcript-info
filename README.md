@@ -8,8 +8,13 @@ This repository provides lists RefSeq transcripts with mapping issues for specif
 
 ## Overview
 
+### hg19 (GRCh37)
 - [hg19 (GRCh37) RefSeq alignment 2022-03](./hg19/refseq-2022-03/)
+- [hg19 (GRCh37) RefSeq alignment 2024-09](./hg19/refseq-2024-09/)
+
+### hg38 (GRCh38)
 - [hg38 (GRCh38) RefSeq alignment 2023-03](./hg38/refseq-2023-03/)
+- [hg38 (GRCh38) RefSeq alignment 2024-08](./hg38/refseq-2024-08/)
 
 ## How to contribute
 
